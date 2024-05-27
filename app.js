@@ -12,5 +12,5 @@ btn.addEventListener('click',() => {
       var pasword = `${abc[abcNumber]}${number}${symble[symbleNumber]}${ABC[ABCNumber]}${abc[abcNumber]}${number}${ABC[ABCNumber]}`
       para.innerText = pasword
       console.log(pasword);
-  }, 9000);
+  }, 1000);
 })
